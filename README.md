@@ -27,7 +27,7 @@ The system provides an easy-to-use graphical interface for administrators to man
 
 | Technology       | Usage                                      |
 |-------------------|--------------------------------------------|
-| Python 3.x        | Programming language                       |
+| Python 3.x        |                       |
 | OpenCV            | Video capture and image processing         |
 | face_recognition  | Face detection and encoding (dlib-based)   |
 | Firebase          | Authentication, Firestore, Cloud Messaging |
